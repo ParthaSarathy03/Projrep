@@ -1,3 +1,3 @@
 a=200
-b=20
+b='sarathy'
 print(a+b)
